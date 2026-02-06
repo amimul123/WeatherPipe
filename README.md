@@ -139,7 +139,7 @@ docker compose build
 
 ---
 
-USEFUL COMMANDS
+## USEFUL COMMANDS
 
 - View Airflow logs: docker compose logs -f af
 - Open shell in Airflow container: docker exec -it airflow_container bash
