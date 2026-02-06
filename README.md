@@ -49,20 +49,21 @@ ghcr.io/dbt-labs/dbt-postgres:1.9.latest
 ---
 
 ## Project Structure
+
 .
 ├── docker-compose.yml
 ├── airflow/
-│ └── dags/
-│ └── dbt_orchestrator.py
+│   └── dags/
+│       └── dbt_orchestrator.py
 ├── api-request/
-│ └── insert_record.py
+│   └── insert_record.py
 ├── postgres/
-│ ├── data/
-│ └── airflow_init.sql
+│   ├── data/
+│   └── airflow_init.sql
 ├── dbt/
-│ ├── my_project/
-│ └── profiles.yml
-└── README.md
+│   ├── my_project/
+│   └── profiles.yml
+└── README.txt
 
 ---
 
