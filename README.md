@@ -50,6 +50,7 @@ ghcr.io/dbt-labs/dbt-postgres:1.9.latest
 
 ## Project Structure
 
+```text
 .
 ├── docker-compose.yml
 ├── airflow/
@@ -63,7 +64,9 @@ ghcr.io/dbt-labs/dbt-postgres:1.9.latest
 ├── dbt/
 │   ├── my_project/
 │   └── profiles.yml
-└── README.txt
+└── README.md
+```
+
 
 ---
 
