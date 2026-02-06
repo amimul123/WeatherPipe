@@ -33,9 +33,9 @@ Services Overview
 
 ---
 
-Project Structure
+## Project Structure
 
-.
+
 ├── docker-compose.yml
 ├── airflow/
 │   └── dags/
